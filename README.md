@@ -1,5 +1,9 @@
 # Wahyudi Prabowo | 311910218 | Tugas 13 Pemrogaman Mobile
 
+update SplashScreen :
+<br><br>
+![image](https://user-images.githubusercontent.com/85074523/175606354-539604b8-30ce-44c4-ab5b-198f7f85b4d7.png)
+
 1.Tampilan Awal RecyclerView
 <br><br>
 ![image](https://user-images.githubusercontent.com/85074523/174661784-de4e01bf-1ba0-43fc-a7cf-61316e17bcdc.png)
