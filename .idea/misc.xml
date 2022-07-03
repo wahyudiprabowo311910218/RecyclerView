@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/drawable/background_blue.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/drawable/background_btn.xml" value="0.1" />
         <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/layout/activity_profile.xml" value="0.1" />
         <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/layout/detail_data_pemain.xml" value="0.1" />
         <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/layout/list_item_permain.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 6/Pemrogaman Mobile/Recyclerview/app/src/main/res/menu/menu_main.xml" value="0.1" />
         <entry key="..\:/Users/boy/AndroidStudioProjects/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/boy/AndroidStudioProjects/Recyclerview/app/src/main/res/layout/list_item_permain.xml" value="0.5" />
       </map>

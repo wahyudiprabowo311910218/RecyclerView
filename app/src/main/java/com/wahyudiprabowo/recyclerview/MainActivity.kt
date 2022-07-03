@@ -1,13 +1,15 @@
 package com.wahyudiprabowo.recyclerview
 
 import android.app.Dialog
-import android.media.Image
-import androidx.appcompat.app.AppCompatActivity
+import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.view.Window
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import com.wahyudiprabowo.recyclerview.adapter.AdapterTeamBola
 import com.wahyudiprabowo.recyclerview.databinding.ActivityMainBinding
 import com.wahyudiprabowo.recyclerview.model.Pemain
@@ -61,4 +63,24 @@ class MainActivity : AppCompatActivity() {
 
 
         }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main,menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        setMode(item.itemId)
+        return super.onOptionsItemSelected(item)
+    }
+
+    private fun setMode(selectedMode : Int) {
+        when (selectedMode) {
+            R.id.myprofile -> {
+                val intent = Intent(this,Profile::class.java)
+                startActivity(intent)
+            }
+        }
+    }
+
     }
