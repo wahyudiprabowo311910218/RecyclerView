@@ -2,11 +2,10 @@
 <br>
 update My Profile :
 <br><br>
-![image](https://user-images.githubusercontent.com/85074523/177032730-44c4e0d3-37fa-4f62-8144-17a23a880a92.png)
+
 <br><br>
 update SplashScreen :
 <br><br>
-![image](https://user-images.githubusercontent.com/85074523/175606354-539604b8-30ce-44c4-ab5b-198f7f85b4d7.png)
 
 1.Tampilan Awal RecyclerView
 <br><br>
