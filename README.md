@@ -1,10 +1,13 @@
 # Wahyudi Prabowo | 311910218 | Tugas 13 Pemrogaman Mobile
 <br>
 update My Profile :
+
 <br><br>
+![177032730-44c4e0d3-37fa-4f62-8144-17a23a880a92](https://user-images.githubusercontent.com/85074523/177032899-5e30ae9c-a018-4f10-9c0a-46c30b60f757.png)
 
 <br><br>
 update SplashScreen :
+![175606354-539604b8-30ce-44c4-ab5b-198f7f85b4d7](https://user-images.githubusercontent.com/85074523/177032903-602b41d8-389c-4f1f-ae88-5e37323bc72b.png)
 <br><br>
 
 1.Tampilan Awal RecyclerView
